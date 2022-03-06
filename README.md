@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Himanshu Kumar.
 
+# About me 👀
+- I'm a Final year Student of Mechatronics Engineering from GGSIPU.
+- Currently transitioned into Software Engineering.
 <!--
 **Himanshu4776/Himanshu4776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
