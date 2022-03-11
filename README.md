@@ -3,6 +3,7 @@
 # About me 👀
 - I'm a Final year Student of Mechatronics Engineering from GGSIPU.
 - Currently transitioned into Software Engineering.
+- Love To work on DSA, Python & React stuffs.
 <!--
 **Himanshu4776/Himanshu4776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
