@@ -21,33 +21,38 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="580" height="350" /> -->
 
+<hr></hr>
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<hr></hr>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
 ```dart
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "ProgramingLanguages" : {"C++", "Python", "Java", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "React", "Django", "Json" },
+    "Database" : { "Firebase", "Sqlite","MYSQL" },
+    "Editors" : { "Vscode", "Sublime", "IntelliJ IDEA" },
+    "Platforms" : { "Windows", "Linux" },
+    "Struggling on" : { "Leetcode", "Codeforces", "Codechef" } 
   };
 }
 ```
+<hr></hr>
 
+## Life is fun. Just Do Dev & Enjoy !!! 🦖
+<img src="https://github.com/Himanshu4776/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/Himanshu4776" width="700"/><br>
 <!--
 **Himanshu4776/Himanshu4776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
