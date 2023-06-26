@@ -5,10 +5,9 @@
 <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br> -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 
-##  I'm a Mechatronics Engineering Student from GGSIPU '22
+##  I'm a Software Developer 👨🏽‍💻
 
-- 👨🏽‍💻 Currently transitioned into Software Engineering
-- 🌱 Love To work on DSA, Python & React stuffs
+- 🌱 Love To work on DSA, Java, Typescript & React stuffs
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I am Developer, poet 🤣
 
@@ -26,11 +25,10 @@
 **languages and tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <hr></hr>
@@ -40,10 +38,10 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {"C++", "Python", "Java", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "React", "Django", "Json" },
-    "Database" : { "Firebase", "Sqlite","MYSQL" },
-    "Editors" : { "Vscode", "Sublime", "IntelliJ IDEA" },
+    "ProgramingLanguages" : {"C++", "Java", "Typescript" },
+    "OtherLanguages" : { "React", "Angular", "SpringBoot", "HTML", "CSS" },
+    "Database" : { "MYSQL", "MongoDB", "PLSQL" },
+    "Editors" : { "Vscode", "Sublime", "IntelliJ IDEA", "Eclispse" },
     "Platforms" : { "Windows", "Linux" },
     "Struggling on" : { "Leetcode", "Codeforces", "Codechef" } 
   };
