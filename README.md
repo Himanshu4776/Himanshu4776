@@ -7,9 +7,11 @@
 
 ##  I'm a Software Developer 👨🏽‍💻
 
+- 🔭 I’m currently working on let's Go (a  negotiation based cab booking platform)
 - 🌱 Love To work on DSA, Java, Typescript & React stuffs
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I am Developer, poet 🤣
+- 📫 How to reach me: himanshukr20k@gmail.com
 
 ### Connect with Me
 
@@ -39,7 +41,7 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : {"C++", "Java", "Typescript" },
-    "OtherLanguages" : { "React", "Angular", "SpringBoot", "HTML", "CSS" },
+    "OtherLanguages" : { "React", "SpringBoot", "Angular", "HTML", "CSS" },
     "Database" : { "MYSQL", "MongoDB", "PLSQL" },
     "Editors" : { "Vscode", "Sublime", "IntelliJ IDEA", "Eclispse" },
     "Platforms" : { "Windows", "Linux" },
