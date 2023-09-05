@@ -135,7 +135,7 @@ class About extends Me {
 
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu4776&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/codemaster05330?tab=achievements">
+  <a width='50%' href="https://github.com/Himanshu4776?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Himanshu4776&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@CryptoNinja's trophy stats"/>
   </a>
 </div>
