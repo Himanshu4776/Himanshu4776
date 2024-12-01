@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Himanshu Kumar
 
 <div align="center" width="50">
-<img src="https://readme-typing-svg.demolab.com/?lines=A%20Full-Stack%20web%20developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=A%20Full-Stack%20web%20developer;2.5+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 <p align="flex">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="500" height="400"/><br>
 
