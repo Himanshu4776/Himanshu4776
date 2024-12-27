@@ -7,8 +7,8 @@
 
 <!-- ## I'm a Software Developer 👨🏽‍💻 -->
 
-- 🔭 I’m currently working on let's Go (a negotiation based cab booking platform)
-- 🌱 Love To work on DSA, Java, Typescript & React stuffs
+- 🔭 I’m currently working on Book Ride (a negotiation based cab booking platform)
+- 🌱 Love To work on Java, Springboot, DSA, Typescript & React stuffs
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Fun fact: I am Developer, poet 🤣
 - 📫 How to reach me: <himanshukr20k@gmail.com>
@@ -45,6 +45,14 @@
       <br>React
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Express" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Express" />
+      <br>SpringBoot
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
@@ -59,14 +67,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Express" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Express" />
-      <br>SpringBoot
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="Express" />
